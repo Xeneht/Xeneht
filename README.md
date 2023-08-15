@@ -3,8 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=xeneht&color=FE428E&style=flat" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xeneht&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeneht&theme=radical&hide_border=true&border_radius=10&layout=compact" />
+  <img width="395" src="https://github-readme-stats.vercel.app/api?username=xeneht&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
+  <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeneht&theme=radical&hide_border=true&border_radius=10&layout=compact" />
 </p>
 <p align="center">
   <a href="https://discord.com/users/725443975825063996">
