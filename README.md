@@ -2,6 +2,12 @@
   <img src="https://img.shields.io/badge/Profile-Xeneht-FE428E.svg?style=flat&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=xeneht&color=FE428E&style=flat" />
 </p>
+<div align="center">
+  
+  [![Travis](https://steam-stat.vercel.app/api?profileName=xeneht)](https://steam-stat.vercel.app/api?profileName=xeneht)
+  ![](https://github.com/Xeneht/images/blob/main/main-readme/steam.gif)
+</div>
+
 <p align="center">
   <img width="395" src="https://github-readme-stats.vercel.app/api?username=xeneht&show_icons=true&theme=radical&hide_border=true&border_radius=15" />
   <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeneht&theme=radical&hide_border=true&border_radius=10&layout=compact" />
