@@ -5,7 +5,6 @@
 <div align="center">
   
   [![Travis](https://steam-stat.vercel.app/api?profileName=xeneht)](https://steam-stat.vercel.app/api?profileName=xeneht)
-  ![](https://github.com/Xeneht/images/blob/main/main-readme/steam.gif)
 </div>
 
 <p align="center">
